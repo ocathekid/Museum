@@ -5,7 +5,6 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/oscar/Desktop/WSU/SENIOR/SPRING/PRACTICUM 3/Museum/Content/Museum.umap",
 				"C:/Program Files (x86)/Fall Guys/UE_5.2/Engine/Content/BasicShapes/BP_plane.uasset",
 				"C:/Program Files (x86)/Fall Guys/UE_5.2/Engine/Content/BasicShapes/plane_2.uasset",
 				"C:/Program Files (x86)/Fall Guys/UE_5.2/Engine/Content/BasicShapes/WorldGridMaterial.uasset",
@@ -15,7 +14,29 @@
 				"C:/Users/oscar/Documents/GitHub/Museum/Content/Material/Maps/Floor/T_MarbleFloor_H.uasset",
 				"C:/Users/oscar/Documents/GitHub/Museum/Content/Material/Maps/Floor/T_MarbleFloor_m.uasset",
 				"C:/Users/oscar/Documents/GitHub/Museum/Content/Material/Maps/Floor/T_MarbleFloor_N.uasset",
-				"C:/Users/oscar/Documents/GitHub/Museum/Content/Material/Maps/Floor/T_MarbleFloor_R.uasset"
+				"C:/Users/oscar/Documents/GitHub/Museum/Content/Material/Maps/Floor/T_MarbleFloor_R.uasset",
+				"C:/Users/oscar/Documents/GitHub/Museum/Content/Material/Maps/MarbleFloor/T_MarbleFloor_B.uasset",
+				"C:/Users/oscar/Documents/GitHub/Museum/Content/Material/Maps/MarbleFloor/T_MarbleFloor_H.uasset",
+				"C:/Users/oscar/Documents/GitHub/Museum/Content/Material/Maps/MarbleFloor/T_MarbleFloor_m.uasset",
+				"C:/Users/oscar/Documents/GitHub/Museum/Content/Material/Maps/MarbleFloor/T_MarbleFloor_N.uasset",
+				"C:/Users/oscar/Documents/GitHub/Museum/Content/Material/Maps/MarbleFloor/T_MarbleFloor_R.uasset",
+				"C:/Users/oscar/Documents/GitHub/Museum/Content/Material/Maps/CheckersFloor/M_MarbleCheckersFloor.uasset",
+				"C:/Users/oscar/Documents/GitHub/Museum/Content/Material/Maps/CheckersFloor/T_MarbleCheckersFloor_R.uasset",
+				"C:/Users/oscar/Documents/GitHub/Museum/Content/Material/Maps/CheckersFloor/T_MarbleCheckersFloor_N.uasset",
+				"C:/Users/oscar/Documents/GitHub/Museum/Content/Material/Maps/CheckersFloor/T_MarbleCheckersFloor_M.uasset",
+				"C:/Users/oscar/Documents/GitHub/Museum/Content/Material/Maps/CheckersFloor/T_MarbleCheckersFloor_H.uasset",
+				"C:/Users/oscar/Documents/GitHub/Museum/Content/Material/Maps/CheckersFloor/T_MarbleCheckersFloor_B.uasset",
+				"C:/Users/oscar/Documents/GitHub/Museum/Content/Material/Maps/CheckersFloor/T_MarbleCheckersFloor_AO.uasset",
+				"C:/Users/oscar/Documents/GitHub/Museum/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/oscar/Documents/GitHub/Museum/Content/Material/Maps/TriangleCeiling/M_TriangleCeiling.uasset",
+				"C:/Users/oscar/Documents/GitHub/Museum/Content/Material/Maps/TriangleCeiling/T_Triangle_Ceiling_AO.uasset",
+				"C:/Users/oscar/Documents/GitHub/Museum/Content/Material/Maps/TriangleCeiling/T_Triangle_Ceiling_B.uasset",
+				"C:/Users/oscar/Documents/GitHub/Museum/Content/Material/Maps/TriangleCeiling/T_Triangle_Ceiling_H.uasset",
+				"C:/Users/oscar/Documents/GitHub/Museum/Content/Material/Maps/TriangleCeiling/T_Triangle_Ceiling_M.uasset",
+				"C:/Users/oscar/Documents/GitHub/Museum/Content/Material/Maps/TriangleCeiling/T_Triangle_Ceiling_N.uasset",
+				"C:/Users/oscar/Documents/GitHub/Museum/Content/Material/Maps/TriangleCeiling/T_Triangle_Ceiling_R.uasset",
+				"C:/Users/oscar/Documents/GitHub/Museum/Content/Material/Maps/CheckersFloor/T_Triangle_Ceiling_AO.uasset",
+				"C:/Users/oscar/Desktop/WSU/SENIOR/SPRING/PRACTICUM 3/Museum/Content/Museum.umap"
 			]
 		}
 	]
