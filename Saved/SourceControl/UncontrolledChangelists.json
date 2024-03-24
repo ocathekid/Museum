@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/samue/Github/Museum/Content/Maps/Museum.umap",
+				"C:/Users/samue/Github/Museum/Content/Maps/LS_CamTrack.uasset",
+				"C:/Users/samue/Github/Museum/Content/Cinematic/LS_CamTrack.uasset",
 				"C:/Program Files (x86)/Fall Guys/UE_5.2/Engine/Content/BasicShapes/BP_plane.uasset",
 				"C:/Program Files (x86)/Fall Guys/UE_5.2/Engine/Content/BasicShapes/plane_2.uasset",
 				"C:/Program Files (x86)/Fall Guys/UE_5.2/Engine/Content/BasicShapes/WorldGridMaterial.uasset",
